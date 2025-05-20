@@ -1,2 +1,4 @@
-# nextjs-cpanel
-Nextjs app hosting on cpanel
+# Nextjs app hosting on cpanel
+
+package.json 
+server.js
